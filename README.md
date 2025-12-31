@@ -1,10 +1,12 @@
-# Data Science Projects - R & ggplot2
+# lsrscript - Data Science Projects
 
 **Author:** Lakulish Saini
 
+A collection of my favorite R script projects focused on data visualization and analysis using R and ggplot2.
+
 ## Overview
 
-This repository contains data science projects focused on data visualization and analysis using R and ggplot2. The projects explore real-world datasets including baby name trends, housing market data, and flight delay patterns.
+This repository contains data science projects exploring real-world datasets including baby name trends, housing market data, and flight delay patterns.
 
 ## Projects
 
@@ -65,4 +67,3 @@ install.packages(c("dplyr", "ggplot2", "tidyr", "patchwork"))
 ## License
 
 This project is for educational purposes.
-
